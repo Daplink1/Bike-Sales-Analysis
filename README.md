@@ -59,6 +59,8 @@ The following processes were carried out in the cause of data cleaning and trans
 
 ![Bike_sales_DB](https://github.com/user-attachments/assets/538d20d9-ce0d-4b29-9d83-c96f4260c60f)
 
+Clich [here](https://github.com/user-attachments/files/16656645/Beginners.Ass.Project.xlsx) to check and interact with the dashboard
+
 The analysis was performed using the pivot table in excel and visualization was done afterward using the appropriate chart. 
 
 Here are is how each problem statement was answered with the analysis.
