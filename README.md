@@ -70,9 +70,7 @@ The following processes were carried out in the cause of data cleaning and trans
 
 ## Data Analysis and Visualization
 
-![Bike_sales_DB](https://github.com/user-attachments/assets/538d20d9-ce0d-4b29-9d83-c96f4260c60f)
-
-Clich [here](https://github.com/user-attachments/files/16656645/Beginners.Ass.Project.xlsx) to check and interact with the dashboard
+Click ![here](https://github.com/user-attachments/assets/538d20d9-ce0d-4b29-9d83-c96f4260c60f) to check and interact with the dashboard
 
 The analysis was performed using the pivot table in excel and visualization was done afterward using the appropriate chart. 
 
@@ -139,11 +137,16 @@ Here are the key insight and findings from the analysis:
 
 
 ## Recommendations
+![bike_recom](https://github.com/user-attachments/assets/6466bec5-7752-4957-b874-ef1091240458)
+
 
 Base on the results, it is hereby recommended that:
 - Bikes and bikes accessories should be produce more for the Adults and young adult especially in USA and Canada were the largest of their customers are of this age group.
 - USA and Australia should be given the outmost priority in terms advertisement to increase sales as they are the larger contributors of revenue.
 - Bikes (Road and Mountain) should be given more attention in sales to increase revenue generation. 
+
+![thank_u](https://github.com/user-attachments/assets/b14f2ae9-a32b-4b79-877b-e20510113c6e)
+
 
 
 
