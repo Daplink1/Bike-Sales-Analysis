@@ -2,11 +2,25 @@
 
 ![bike_intro](https://github.com/user-attachments/assets/c02c4871-9055-4d49-a5a5-144e1cf8c287)
 
+## Table of Content
+
+- ![Introduction](#introduction)
+- ![Project Objectives](#project_objective)
+- ![Problem Statement](#problem_statement)
+- ![Data Overview](#data_overview)
+- ![Data Cleaning and Transformation](#data_cleaning_and_transformation)
+- ![Data Analysis and Visualization](#data_analysis_and_visualization)
+- ![Insight and findings](#insight_and_findings)
+- ![Recommendations](#recommendations)
+
+  
 ## Introduction
 
 The business environment is increasingly driven by data, and the ability to derive meaningful insights from data is crucial for informed decision-making. In this project, we undertake a comprehensive analysis of sales data spanning from 2011 to 2016. This analysis focuses on understanding how various factors—such as country, age group, product, and product category—affect the revenue generated.
 
 By employing Excel as the primary tool for data analysis, this project seeks to provide clear, actionable insights that can help in strategic planning and optimization of sales efforts. The goal is to better understand the dynamics at play in the sales records and how these insights can inform future business decisions.
+
+
 
 ## Project Objectives
 
@@ -20,12 +34,11 @@ By employing Excel as the primary tool for data analysis, this project seeks to 
 
 Here are the questions that will guide our analysis:
 1. Which categories of customers make the highest numbers of sales
-2. Which product has the highest numbers of sale
-3. What are the top 5 product sub category and category in terms of revenue
-4. Which are the least countries by quantity ordered
-5. When was revenue decline of sales recorded base on year
-5. Which year did we recorded the highest profit and why?
-6. When was the highest numbers of sales recorded according to years.
+2. What are the top 5 product sub category and category in terms of revenue
+3. Which are the top countries by revenue?
+4. Which year did we recorded the highest profit and why?
+5. When did we have decline in revenue and what was the cause?
+
 
 
 ## Data Overview
@@ -55,7 +68,7 @@ The following processes were carried out in the cause of data cleaning and trans
 - I created a separate columns for  age bracket and age category from the age group column.
 
 
-## Data Analysis  and Visualization
+## Data Analysis and Visualization
 
 ![Bike_sales_DB](https://github.com/user-attachments/assets/538d20d9-ce0d-4b29-9d83-c96f4260c60f)
 
@@ -86,23 +99,29 @@ The top 5 product sub category that has the highest revenue are resented in the 
  Helmet  |	6,353,270
  Tires and Tubes  |	5,085,521
 
+The rank of country by sub_category are accsessories, bikes and clothimg.
+
 
 iii.  **Which are the top countries by revenue?**
 
 **Answer:**
-countries recorded the best ordered quantity of goods, some of the top 3 countries by revenue are : **USA, Australia and United Kingdom**
+countries recorded the best ordered quantity of goods, some of the top 3 countries by revenue are : 
+- USA
+- Australia and
+- United Kingdom.
 
-
-iv. **When was revenue decline of sales recorded base on year?**
-
-**Answer:**
-There was a significant decline in revenue in 2014 and 2016 because there was massive decline in revenue from Australia which is the second most revenue contributor, also there was decline in France and canada.
 
 
 v.  **Which year did we recorded the highest profit and why?**
    
 **Answer:**
 There was a massive surge in profit and revenue in 2015 because there is a significant increase in revenue from top countries like USA and Australia.
+
+v. When did we have decline in revenue and what was the cause?
+ 
+**Answer:**
+There was a significant decline in revenue in 2014 and 2016 because there was massive decline in revenue from Australia which is the second most revenue contributor, also there was decline in France and canada.
+
 
 ![bike222](https://github.com/user-attachments/assets/ce6f81b4-9cfd-4891-a172-250bfe70f7d8)
 
