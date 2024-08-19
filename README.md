@@ -1,0 +1,128 @@
+# Bike Sales Report
+
+![bike_intro](https://github.com/user-attachments/assets/c02c4871-9055-4d49-a5a5-144e1cf8c287)
+
+## Introduction
+
+The business environment is increasingly driven by data, and the ability to derive meaningful insights from data is crucial for informed decision-making. In this project, we undertake a comprehensive analysis of sales data spanning from 2011 to 2016. This analysis focuses on understanding how various factors—such as country, age group, product, and product category—affect the revenue generated.
+
+By employing Excel as the primary tool for data analysis, this project seeks to provide clear, actionable insights that can help in strategic planning and optimization of sales efforts. The goal is to better understand the dynamics at play in the sales records and how these insights can inform future business decisions.
+
+## Project Objectives
+
+- Understand the distribution and patterns within the sales data from 2011 to 2016.
+- Investigate how revenue varies across different countries, age groups, products, and product categories.
+- Detect trends and patterns over the years that could inform future sales strategies.
+- Provide actionable insights that could aid in improving sales performance and targeting.
+  
+
+## Problem Statement
+
+Here are the questions that will guide our analysis:
+1. Which categories of customers make the highest numbers of sales
+2. Which product has the highest numbers of sale
+3. What are the top 5 product sub category and category in terms of revenue
+4. Which are the least countries by quantity ordered
+5. When was revenue decline of sales recorded base on year
+5. Which year did we recorded the highest profit and why?
+6. When was the highest numbers of sales recorded according to years.
+
+
+## Data Overview
+![Bike_data_view](https://github.com/user-attachments/assets/b9464b04-acaf-4345-990c-8208b7940fad)
+
+
+The data utilized in this project includes records from various countries, age groups, and product categories. Each record contains details such as the customer's age, location, product purchased, and the category to which the product belongs.
+- Time Period: 2011 - 2016
+- Key Variables:
+- Country
+- State
+- Customer Age
+- Age Group
+- Product Category
+- Sub-Category
+- Product
+
+
+## Data Cleaning and Transformation
+
+The following processes were carried out in the cause of data cleaning and transformation:
+1. checking and removal of duplicated values
+2. Removal of null values
+3. The following columns were created:
+- Revenue column (unit price * Ordered_quantity)
+- Profit column (Revenue - Cost_price)
+- I created a separate columns for  age bracket and age category from the age group column.
+
+
+## Data Analysis  and Visualization
+
+![Bike_sales_DB](https://github.com/user-attachments/assets/538d20d9-ce0d-4b29-9d83-c96f4260c60f)
+
+The analysis was performed using the pivot table in excel and visualization was done afterward using the appropriate chart. 
+
+Here are is how each problem statement was answered with the analysis.
+
+I. **Which categories of customers make the highest numbers of sales**
+
+
+**Answer:**
+The largest percentage of sales was made by the adult (35-64) years which represent 48% of the total ordered recorded during the years
+
+
+ii.  **What are the top 5 product sub category and category in terms of revenue**
+
+
+**Answer:**
+The top 5 product sub category that has the highest revenue are resented in the table below.
+
+|Product Subcategory	| Revenue (million)|
+|---------------------|-------------------|
+  Road Bikes  |	37,211,079
+ Mountain Bikes  |	23,567,523
+ Touring Bikes  |	8,029,183
+ Helmet  |	6,353,270
+ Tires and Tubes  |	5,085,521
+
+
+iii.  **Which are the top countries by revenue?**
+
+**Answer:**
+countries recorded the best ordered quantity of goods, some of the top 3 countries by revenue are : **USA, Australia and United Kingdom**
+
+
+iv. **When was revenue decline of sales recorded base on year?**
+
+**Answer:**
+There was a significant decline in revenue in 2014 and 2016 because there was massive decline in revenue from Australia which is the second most revenue contributor, also there was decline in France and canada.
+
+
+v.  **Which year did we recorded the highest profit and why?**
+   
+**Answer:**
+There was a massive surge in profit and revenue in 2015 because there is a significant increase in revenue from top countries like USA and Australia.
+
+![bike222](https://github.com/user-attachments/assets/ce6f81b4-9cfd-4891-a172-250bfe70f7d8)
+
+
+## Insight and findings
+
+Here are the key insight and findings from the analysis:
+- Adult and Young adult contribute over 75% of the total sales
+- United State and Australia are the two most sales and revenue contributors.
+- There was decline in sales in 2015 because there was a subsequent decrease in sales from Australia
+- Accessories is the most ordered product because it is a recurrent product.
+- Bikes contribute the largest part of the revenue generated.
+- There is positive correlation between Bikes and the other two products categories(accessories and clothing), therefore increase in the sales of bikes will lead to increase in accessories and clothing
+
+
+
+## Recommendations
+
+Base on the results, it is hereby recommended that:
+- Bikes and bikes accessories should be produce more for the Adults and young adult especially in USA and Canada were the largest of their customers are of this age group.
+- USA and Australia should be given the outmost priority in terms advertisement to increase sales as they are the larger contributors of revenue.
+- Bikes (Road and Mountain) should be given more attention in sales to increase revenue generation. 
+
+
+
